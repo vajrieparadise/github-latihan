@@ -1,2 +1,3 @@
 ini file yang dibuat langsung di GitHub
 belajar git fetch
+test SSH push
