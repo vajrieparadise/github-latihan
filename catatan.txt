@@ -3,3 +3,4 @@ belajar git fetch
 test SSH push
 test credential
 test credential ke-2
+test GPG signing
