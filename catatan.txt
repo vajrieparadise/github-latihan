@@ -9,3 +9,4 @@ update kedua dari fajriluckyboy
 update ketiga fajriluckyboy
 update keempat fajriluckyboy
 commit 1 untuk squash
+commit 2 untuk squash
